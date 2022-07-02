@@ -3,6 +3,8 @@ User vs CPU. Guess the opponent number.
 
 *Just for coding practice*
 
+More in detail on my [personal page](https://www.alessandroferrarese.com/second-python-project-and-github/)
+
 ## Gameplay
 
 **User turn:**
